@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OutputVariables
+namespace OutVariables
 {
     class Program
     {
